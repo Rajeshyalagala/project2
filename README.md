@@ -6,7 +6,7 @@ This is a web based application developed for YOGA related based website in worl
 
 
 **Project Link** -https://agreeable-island-08df7e700.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/5VWaAFSbrSI
 
 ## Azure technologies used for Project
 
